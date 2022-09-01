@@ -1,0 +1,28 @@
+{"intense":[
+    {
+        "tag": "greeting",
+        "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Whats up", "I want some help"],
+        "responses": ["Hello", "Hi", "Good to see you", "How can i help you"],
+        "context_set": ""
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["See you", "cya", "Goodbye", "I am leaving", "Have a good day"],
+        "responses": ["Goodbye", "See you", "Sad to see you go , come back asap i'm feeling alone"],
+        "context_set": ""
+    },
+    {
+        "tag": "ask",
+        "patterns": ["What is YetGen", "Who are the sponsors of YetGen"],
+        "responses": ["YetGen is an organization which aims to train students whoose are dedicated to develop themselves through the 21th century abilities for free",
+        "For now Mehmet Zorlu Vakfi and MEF University are the supporters of YetGen"],
+        "context_set": ""
+    },
+    {
+        "tag": "join",
+        "patterns": ["How do i join YetGen", "What are the skills for joining YetGen", "Is there any interview for join YetGen"],
+        "responses": ["You can take the application test in YetGen's website (https://yetkingencler.com)", "There is an application test for now there isn't an interview"],
+        "context_set": ""
+    }
+]
+}   
